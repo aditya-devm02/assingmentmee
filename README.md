@@ -1,6 +1,14 @@
 # Activity Booking App API
 
 A RESTful API for a basic activity booking application. This API allows users to register, log in, view activities, book activities, and view their bookings.
+## Project Preview
+
+![Preview](https://github.com/aditya-devm02/assingmentmee/blob/main/assets/Screenshot%202025-05-08%20at%2020.30.42.png)
+![Preview](https://github.com/aditya-devm02/assingmentmee/blob/main/assets/Screenshot%202025-05-08%20at%2020.36.50.png)
+![Preview](https://github.com/aditya-devm02/assingmentmee/blob/main/assets/Screenshot%202025-05-08%20at%2020.37.02.png)
+![Preview](https://github.com/aditya-devm02/assingmentmee/blob/main/assets/Screenshot%202025-05-08%20at%2020.39.25.png)
+![Preview](https://github.com/aditya-devm02/assingmentmee/blob/main/assets/Screenshot%202025-05-08%20at%2020.51.57.png)
+
 
 ## Features
 
@@ -188,6 +196,3 @@ This API can be deployed to platforms like Vercel, Render, or Cyclic. Update the
 - Implement notification system for upcoming bookings
 - Add payment integration
 
-## License
-
-MIT
